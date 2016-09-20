@@ -34,7 +34,7 @@ repositories {
 
 dependencies {
 
-    def androidSupportVersion = '24.2.0'
+    def androidSupportVersion = '23.2.1'
 
     compile fileTree(dir: 'libs', include: ['*.jar'])
 
